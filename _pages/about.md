@@ -6,10 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a MSc student in applied computing at the University of Toronto. I got my bachelor degree in mathematics and statistics also in UofT. I am interested in developing robust and efficient machine learning solutions with theoretical guarantees. My research interest includes: 
+- machine learning theory
+- optimization.
+I also has engineering experiences in:
+- Building end-to-end ML system for financial decision making
+- LLM post-training and RLHF
+Outside of work, I enjoying playing boardgames, badminton, and watching movies.
 
 A data-driven personal website
 ======
