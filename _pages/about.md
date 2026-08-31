@@ -11,7 +11,7 @@ I am a [Master of Science in Applied Computing (MScAC)](https://mscac.utoronto.c
 
 My research lies at the intersection of machine learning and optimization. I am interested in developing robust and efficient machine learning solutions with theoretical guarantees. I also like using statistical theory to address practical engineering problems in LLM post-training and recommender systems. I currently work on nonparametric methods for mixture models.
 
-Outside of work, I enjoy playing board games and badminton, as well as watching movies.
+Email: peize.zhang [at] mail [dot] utoronto [dot] ca
 
 <section class="news-section" aria-labelledby="news-heading">
   <h2 id="news-heading">News</h2>
