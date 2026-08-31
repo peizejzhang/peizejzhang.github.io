@@ -7,15 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Science in Applied Computing (MScAC) student at the University of Toronto. I also hold a bachelor's degree in Mathematics and Statistics from U of T. I am interested in developing robust and efficient machine learning solutions with theoretical guarantees. My research interests include:
+I am a [Master of Science in Applied Computing (MScAC)](https://mscac.utoronto.ca/) student at the University of Toronto. Previously, I graduated with a BSc (Honours) in Mathematics and Statistics also at U of T.
 
-- Machine learning theory
-- Optimization
-
-I also have hands-on engineering experience in:
-
-- Designing and building end-to-end ML systems for financial decision-making
-- Large language model post-training and RLHF
+My research lies at the intersection of machine learning and optimization. I am interested in developing robust and efficient machine learning solutions with theoretical guarantees. I also like using statistical theory to address practical engineering problems, particularly in LLM post-training and recommender systems. I currently work on nonparametric methods for mixture models.
 
 Outside of work, I enjoy playing board games and badminton, as well as watching movies.
 
