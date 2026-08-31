@@ -13,7 +13,7 @@ author_profile: true
 
 ---
 
-## [YouTube Spam Classification with Accuracy–Latency Trade-off Analysis](https://github.com/peizejzhang/youtube-spam-classification)
+## [A Fast and Accurate Classifier for YouTube Spam Detection](https://github.com/peizejzhang/youtube-spam-classification)
 
 **Abstract**： A machine learning project for detecting spam comments on YouTube. It systematically evaluates combinations of tokenization techniques, text representations, and classification models using stratified cross-validation. Each configuration is assessed jointly based on its F1 score and inference latency, enabling the selection of an appropriate tokenization–representation–classifier pipeline under different deployment constraints. A standardized two-dimensional evaluation framework is used to identify Pareto-efficient configurations that achieve favorable trade-offs between predictive performance and computational efficiency.
 
