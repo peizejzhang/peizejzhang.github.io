@@ -9,7 +9,7 @@ redirect_from:
 
 I am a [Master of Science in Applied Computing (MScAC)](https://mscac.utoronto.ca/) student at the University of Toronto. Previously, I graduated with a BSc (Honours) in Mathematics and Statistics also at U of T.
 
-My research lies at the intersection of machine learning and optimization. I am interested in developing robust and efficient machine learning solutions with theoretical guarantees. I also like using statistical theory to address problems in LLM post-training and time series forecasting. I currently work on preference learning under heterogeneous or limited feedback.
+My research focuses on developing robust and efficient machine learning solutions with theoretical guarantees. I am particularly interested in preference learning and decision making under heterogeneous or limited feedback. I currently work on LLM post-training and multi-agent forecasting.
 
 Email: peize [dot] zhang [at] mail [dot] utoronto [dot] ca
 
