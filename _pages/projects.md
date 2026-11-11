@@ -5,16 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Research
+## Papers
 
 ### [Nonparametric Maximum Likelihood Estimation for Mixtures of Logistic Regressions](https://arxiv.org/abs/2611.14445)
 
 Muheng Li, **Peize Zhang**, and Xin Bing  
 *Preprint, 2026*
 
-**Abstract**: We study mixtures of logistic regressions with an unspecified mixing distribution to model binary responses in heterogeneous populations. We establish finite-sample error bounds for a sieve nonparametric maximum likelihood estimator under fixed and random designs. For computation, we develop a finite-particle algorithm that jointly optimizes mixing locations and weights, with global convergence guarantees when the number of particles exceeds a finite threshold. For finitely supported mixing distributions, we further derive bounds separating statistical and algorithmic errors, a denoising bound, and an identifiability result.
+**Abstract**: We study mixtures of logistic regressions with an unspecified mixing distribution to model binary responses in heterogeneous populations. We establish finite-sample error bounds for a sieve nonparametric maximum likelihood estimator under fixed and random designs. For computation, we develop a finite-particle algorithm with global convergence guarantees for any fixed dataset. When the true mixing distribution is finitely supported, we further establish uniform global convergence guarantees and derive error bounds that separate algorithmic and statistical errors. Our analysis also yields a denoising bound for the mixing distribution and an identifiability result that complements existing results in the literature.
 
-[Read paper](https://arxiv.org/abs/2611.14445)
+[arXiv](https://arxiv.org/abs/2611.14445)
 
 ---
 
