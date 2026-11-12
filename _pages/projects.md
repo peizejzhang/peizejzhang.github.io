@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+<style>
+  .archive > .page__title {
+    display: none;
+  }
+</style>
+
 ## Papers
 
 ### [Nonparametric Maximum Likelihood Estimation for Mixtures of Logistic Regressions](https://arxiv.org/abs/2611.14445)
